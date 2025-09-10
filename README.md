@@ -21,12 +21,6 @@
 <p align="center">—</p>
 
 <!-- ===== SHORT ABOUT ===== -->
-<p align="center">
-  🧮 I love mathematics & working with numbers<br/>
-  🤖 Researching machine learning & deep learning (mostly <b>TensorFlow</b>)<br/>
-  👁️ Side interest: computer vision<br/>
-  📬 For contact, use the buttons above
-</p>
 
 <!-- ===== STACK BADGES (lightweight design touch) ===== -->
 <p align="center">
