@@ -13,8 +13,8 @@
 
 <!-- ===== INFO CARD ===== -->
 <p align="center">
-  <b>Data Science Intern</b> @ ZData Technologies • Bachelor thesis with <b>BIBA</b> <br/>
-  Building ML/DL models for predicting sorting results of near-infrared (NIR) plastic sorting systems.
+  <b>Incoming Research Intern</b> @ Aalto University (DAAD) • Multi-Agent Learning & Control <br/>
+  Recently completed Bachelor thesis with <b>BIBA</b> on ML/DL models for NIR plastic sorting systems.
 </p>
 
 <!-- subtle divider -->
