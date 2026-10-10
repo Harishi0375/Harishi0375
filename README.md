@@ -13,9 +13,11 @@
 
 <!-- ===== INFO CARD ===== -->
 <p align="center">
-  <b> First semester student at Technische Universität Darmstadt <br/>
-  <b> Recent Reinforcement Learning Intern at Aalto university <br/>
-  Recently completed Bachelor thesis with <b>BIBA</b> on ML/DL models for NIR plastic sorting systems.
+  <b>Master's Student</b> @ Technische Universität Darmstadt
+  <br/>
+  <b>Former RL Intern</b> @ Aalto University
+  <br/>
+  <b>Bachelor's Thesis</b> @ BIBA — ML/DL for NIR-based plastic sorting
 </p>
 
 <!-- subtle divider -->
