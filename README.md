@@ -13,7 +13,8 @@
 
 <!-- ===== INFO CARD ===== -->
 <p align="center">
-  <b>Incoming Research Intern</b> @ Aalto University (DAAD) • Multi-Agent Learning & Control <br/>
+  <b> First semester student at Technische Universität Darmstadt <br/>
+  <b> Recent Reinforcement Learning Intern at Aalto university <br/>
   Recently completed Bachelor thesis with <b>BIBA</b> on ML/DL models for NIR plastic sorting systems.
 </p>
 
